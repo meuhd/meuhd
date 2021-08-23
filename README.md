@@ -1,5 +1,5 @@
 ### Olá me chamo Noirane Sá ! 
-Sou a responsável pela produção de conteúdo do projeto MeuHD , SEJA MUITO BEM VINDO ! 👋
+
 
 <div>
   <a href="https://github.com/rafaballerini">
@@ -12,8 +12,7 @@ Sou a responsável pela produção de conteúdo do projeto MeuHD , SEJA MUITO BE
   <img align="center" alt="MeuHD-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="MeuHD-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MeuHD-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MeuHD-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/java-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://pa1.narvii.com/6251/9589485ea5ea538653709039a79deccf244be316_hq.gif">
+  <img align="right" alt="Noirane-claymore" src="https://pa1.narvii.com/6251/9589485ea5ea538653709039a79deccf244be316_hq.gif">
 
 
 </div>
